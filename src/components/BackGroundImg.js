@@ -1,7 +1,8 @@
 import "./BackGroundImgStyles.css"
 import React from 'react'
 import PortfolioImg1 from "../assets/portfoliopic1.jpeg"
-import PortfolioImg2 from "../assets/portfolio_img3.avif"
+//import PortfolioImg2 from "../assets/portfolio_img3.avif"
+import PortfolioImg2 from "../assets/homepagebackground.png"
 import {Link} from 'react-router-dom'
 
 const BackGroundImg = ()=>{

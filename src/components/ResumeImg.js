@@ -3,7 +3,8 @@ import React from 'react'
 // import PortfolioImg1 from "../assets/portfoliopic1.jpeg"
 // import PortfolioImg2 from "../assets/portfolio_img3.avif"
 import PortfolioImg2 from "../assets/desk_img.avif"
-import ResumeImg2 from "../assets/laptop_pic2.avif"
+//import ResumeImg2 from "../assets/laptop_pic2.avif"
+import ResumeImg2 from "../assets/resumepagebackground.png"
 import {Link} from 'react-router-dom'
 //background for resume page
 const ResumeImg = ()=>{
