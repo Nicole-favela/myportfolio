@@ -1,0 +1,26 @@
+.background .content h3{
+    font-size: 2rem;
+    padding: 0.6rem 0 1.5rem;
+    
+}
+.background .content p{
+    font-size: 1.4rem;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+.content .btn{
+    margin: 1rem 0.4rem;
+}
+@media screen and (max-width:640px){
+    .background .content h1{
+        font-size: 3rem;
+        
+        
+    }
+    .background .content p{
+        font-size: 1.4rem;
+        
+       
+
+}
+}
