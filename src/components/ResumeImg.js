@@ -15,7 +15,7 @@ const ResumeImg = ()=>{
             </div >
             <div className="content">
             {/* <p>Hi, My name is Nicole.</p> */}
-            <h3>I'm a highly motivated recent UTEP graduate who's looking to bring my programming and analytical skills to work on complex problems. As a software engineer, I'm always learning new things as technolgy evolves.</h3>
+            <h4>I'm a highly motivated recent UTEP graduate who's looking to bring my programming and analytical skills to work on complex problems. As a software engineer, I'm always learning new things as technolgy evolves.</h4>
             {/* <h1>let's code a better future</h1> */}
 
                 <div>
