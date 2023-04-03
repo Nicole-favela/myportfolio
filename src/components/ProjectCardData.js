@@ -2,7 +2,7 @@
 import proj1 from "../assets/discord_clone_img1.png"
 import proj2 from "../assets/discord_clone_img2.png"
 import finalyrproj from "../assets/final_yr_proj_map.png"
-import tmpimg from "../assets/portfolio_img2.avif"
+import tmpimg from "../assets/portfolioimg2.avif"
 const ProjectData = [
     {
         imgsrc: proj1,
