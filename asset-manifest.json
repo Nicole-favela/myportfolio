@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.a570b332.css",
-    "main.js": "/myportfolio/static/js/main.cf30e2d2.js",
+    "main.js": "/myportfolio/static/js/main.334dfac0.js",
     "static/media/discord_clone_img1.png": "/myportfolio/static/media/discord_clone_img1.fa06ea9752e6360291d6.png",
     "static/media/resumepagebackground.png": "/myportfolio/static/media/resumepagebackground.c0e928043a955b4f261a.png",
     "static/media/homepagebackground.png": "/myportfolio/static/media/homepagebackground.e6f9a778a802e9200712.png",
@@ -9,15 +9,16 @@
     "static/media/discord_clone_img2.png": "/myportfolio/static/media/discord_clone_img2.e2af5095a7b21482babf.png",
     "static/media/final_yr_proj_map.png": "/myportfolio/static/media/final_yr_proj_map.0fcfed5ee40c5837b582.png",
     "static/media/cat-typing.gif": "/myportfolio/static/media/cat-typing.dc462c19efae66d5d17b.gif",
+    "static/media/finance_tracker_proj.png": "/myportfolio/static/media/finance_tracker_proj.7740a1dd19354c0c1ca2.png",
     "static/media/desk_img.avif": "/myportfolio/static/media/desk_img.fbdf2db5cf0aa0fe21f2.avif",
     "static/media/robot_contact_pic1.avif": "/myportfolio/static/media/robot_contact_pic1.e1c9fb081388c9e5f2d4.avif",
     "static/media/portfoliopic1.jpeg": "/myportfolio/static/media/portfoliopic1.ca2ad155ab3efc98e7de.jpeg",
     "index.html": "/myportfolio/index.html",
     "main.a570b332.css.map": "/myportfolio/static/css/main.a570b332.css.map",
-    "main.cf30e2d2.js.map": "/myportfolio/static/js/main.cf30e2d2.js.map"
+    "main.334dfac0.js.map": "/myportfolio/static/js/main.334dfac0.js.map"
   },
   "entrypoints": [
     "static/css/main.a570b332.css",
-    "static/js/main.cf30e2d2.js"
+    "static/js/main.334dfac0.js"
   ]
 }
