@@ -2,6 +2,7 @@
 import proj1 from "../assets/discord_clone_img1.png"
 import proj2 from "../assets/discord_clone_img2.png"
 import finalyrproj from "../assets/final_yr_proj_map.png"
+import financeproj from "../assets/finance_tracker_proj.png"
 import tmpimg from "../assets/headphonespic.png"
 const ProjectData = [
     {
@@ -15,6 +16,12 @@ const ProjectData = [
         title: "Our teams final year project: CAN Bus Visualizer Full stack MERN application",
         text: "Mern stack and networking application that provides visual of transmitting ecus on CAN bus",
         view: "https://github.com/Control-Alt-Elite/CS4311_CANBusVisualizer_7"
+    },
+     {
+        imgsrc: financeproj,
+        title: "A Full stack MERN application for tracking personal expenses with login and authentication",
+        text: "Provides user with a way to track their expenses and total spending",
+        view: "https://github.com/Nicole-favela/PersonalExpenseTracker"
     },
     {
         imgsrc: tmpimg,
