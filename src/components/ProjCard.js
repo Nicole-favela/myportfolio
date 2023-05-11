@@ -13,6 +13,7 @@ const ProjCard = (props)=>{
                         <p>{props.text}</p>
                         <div className="pro-btns">
                             <NavLink to={props.view}className="btn" >View on github</NavLink>
+                            {props.site !== undefined && <NavLink to={props.site}className="btn" >Visit site</NavLink> }
                            {/* maybe change to more details/ published site */}
                             {/* <NavLink to="url.com" className="btn" >Source</NavLink> */}
                         </div>
