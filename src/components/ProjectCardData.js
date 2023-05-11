@@ -10,14 +10,14 @@ const ProjectData = [
         title: "Discord clone web app",
         text: "A game chat with friends using getstream.io API. Send dms, create and edit channels, even send your favorite gifs and memes. Includes logins to so you can pick up where you left off. ",
         view: "https://github.com/Nicole-favela/gaming-messenger-app",
-        site: "",
+        site: " ",
     },
     {
         imgsrc: finalyrproj,
         title: "Our teams final year project: CAN Bus Visualizer Full stack MERN application",
         text: "Mern stack and networking application that provides visual of transmitting ecus on CAN bus",
         view: "https://github.com/Control-Alt-Elite/CS4311_CANBusVisualizer_7",
-        site: "",
+        site: " ",
     },
      {
         imgsrc: financeproj,
@@ -31,7 +31,7 @@ const ProjectData = [
         title: "More coming soon",
         text: "Currently typing away...",
         view: "placeholder.com",
-        site: "",
+        site: " ",
     },
 ]
 export default ProjectData ;
