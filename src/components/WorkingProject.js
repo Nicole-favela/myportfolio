@@ -18,6 +18,7 @@ const WorkingProject = ()=>{
                         title={val.title}
                         text={val.text}
                         view={val.view}
+                        site={val.site}
 
                         />
 
