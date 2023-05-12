@@ -86,31 +86,39 @@ const Skills = ()=>{
             <p> python </p>
             <Box sx={{ width: '90%' }}>
                 {/* {maxLevel = 60} */}
-                 <LinearProgressWithLabel value={85} variant ="buffer" color="secondary" />
+                 <LinearProgressWithLabel value={90} variant ="buffer" color="secondary" />
             </Box>
             <p> react js </p>
             <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={80}  color="secondary" />
+                 <LinearProgressWithLabel value={85}  color="secondary" />
             </Box>
             <p> express </p>
             <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={75}  color="secondary" />
+                 <LinearProgressWithLabel value={80}  color="secondary" />
             </Box>
             <p> node js </p>
             <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={75}  color="secondary" />
+                 <LinearProgressWithLabel value={80}  color="secondary" />
             </Box>
             <p> sql </p>
             <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={70}  color="secondary" />
+                 <LinearProgressWithLabel value={75}  color="secondary" />
             </Box>
             <p> Css </p>
             <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={60}  color="secondary" />
+                 <LinearProgressWithLabel value={70}  color="secondary" />
             </Box>
             <p> mongodb </p>
             <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={60}  color="secondary" />
+                 <LinearProgressWithLabel value={75}  color="secondary" />
+            </Box>
+            <p> Agile </p>
+            <Box sx={{ width: '90%' }}>
+                 <LinearProgressWithLabel value={85}  color="secondary" />
+            </Box>
+            <p> Rest APIs </p>
+            <Box sx={{ width: '90%' }}>
+                 <LinearProgressWithLabel value={85}  color="secondary" />
             </Box>
         </div>
         

@@ -22,7 +22,7 @@ const ProjectData = [
      {
         imgsrc: financeproj,
         title: "A Full stack MERN application for tracking personal expenses with login and authentication",
-        text: "Provides user with a way to track their expenses and total spending. Users can add transactions, delete, edit and sort by amount. They can also view a pie chart breakdown for better visualization.",
+        text: "Provides user with a way to track their expenses and total spending. Users can add transactions, delete, edit and sort by amount. They can also view a pie chart breakdown for better visualization. Built with MUI react components and chart js.",
         view: "https://github.com/Nicole-favela/PersonalExpenseTracker",
         site: "https://expense-tracker-app-zhrg.onrender.com"
     },
