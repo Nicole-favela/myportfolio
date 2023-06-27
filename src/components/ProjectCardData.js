@@ -4,6 +4,7 @@ import proj2 from "../assets/discord_clone_img2.png"
 import finalyrproj from "../assets/final_yr_proj_map.png"
 import financeproj from "../assets/finance_tracker_proj.png"
 import tmpimg from "../assets/headphonespic.png"
+import spotify_clone_img1 from "../assets/spotify-proj-img1.png"
 const ProjectData = [
     {
         imgsrc: proj1,
@@ -25,6 +26,13 @@ const ProjectData = [
         text: "Provides user with a way to track their expenses and total spending. Users can add transactions, delete, edit and sort by amount. They can also view a pie chart breakdown for better visualization. Built with MUI react components and chart js.",
         view: "https://github.com/Nicole-favela/PersonalExpenseTracker",
         site: "https://expense-tracker-app-zhrg.onrender.com"
+    },
+    {
+        imgsrc: spotify_clone_img1,
+        title: "Spotify clone application",
+        text: "Listen to music, view playlists, music library, even search by song/artist. Built using React, Node, spotify API, spotify-web-api-node, and MUI components.",
+        view: "https://github.com/Nicole-favela/SpotifyClone",
+        site: " "
     },
     {
         imgsrc: tmpimg,
