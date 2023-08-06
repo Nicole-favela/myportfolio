@@ -1,6 +1,6 @@
 import ReactPlayer from 'react-player'
 import spotifyvid from '../assets/spotify_clone_demo_final.MP4'
-import spotifythumbnail from '../assets/thumbnail.png'
+
  import React from 'react'
  import './PlayerStyles.css'
  

@@ -3,7 +3,7 @@ import proj1 from "../assets/discord_clone_img1.png"
 import { NavLink } from "react-router-dom"
 import * as React from "react"
 import Button from '@mui/material/Button';
-import BasicModal from './components/BasicModal';
+import BasicModal from './BasicModal';
 //workcard
 const ProjCard = (props)=>{
     const [open, setOpen] = React.useState(false);
