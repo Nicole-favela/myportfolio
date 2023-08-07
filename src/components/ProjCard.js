@@ -18,7 +18,7 @@ const ProjCard = (props)=>{
                         <p>{props.text}</p>
                         <div className="pro-btns">
                             <NavLink to={props.view} className="btn" >View on github</NavLink>
-                            {props.site !== " " ? <NavLink to={props.site} className="btn" >Visit site</NavLink> : (props.site == "video" && <Button onClick={handleOpen}>Watch demo</Button>)}
+                            {props.site !== " " ? (<NavLink to={props.site} className="btn" >Visit site</NavLink>) : ( <Button onClick={handleOpen}>Watch demo</Button>)}
                            {/* maybe change to more details/ published site */}
                             {/* <NavLink to="url.com" className="btn" >Source</NavLink> */}
                             <BasicModal open={open} handleClose={handleClose}/>
