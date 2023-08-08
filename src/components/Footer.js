@@ -42,7 +42,7 @@ const Footer=()=>{
                     <h4>
                         About
                     </h4>
-                    <p>I'm the first in my family to get a STEM degree. I love solving problems and improving lives through technology. I'm an aspiring software engineer with an interest in artificial intelligence</p>
+                    <p> I love solving problems and improving lives through technology. I'm an aspiring software engineer with an interest in artificial intelligence</p>
                     <div className="social">
                         <a href="http://linkedin.com/in/nicole-favela-18aa81207">
                         <FaLinkedin

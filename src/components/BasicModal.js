@@ -37,7 +37,7 @@ export default function BasicModal({open, handleClose}) {
           </Typography>
 
           {/* contents */}
-          <Player/>
+          {/* <Player/> */}
         </Box>
       </Modal>
     </div>

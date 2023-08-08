@@ -1,5 +1,5 @@
 import ReactPlayer from 'react-player'
-import spotifyvid from '../assets/spotify_clone_demo_final.MP4'
+// import spotifyvid from '../assets/spotify_clone_demo_final.MP4'
 
  import React from 'react'
  import './PlayerStyles.css'
@@ -13,7 +13,7 @@ import spotifyvid from '../assets/spotify_clone_demo_final.MP4'
      controls = 'true'
      volume = '1'
      className='react-player'
-     url={spotifyvid}
+    //  url={spotifyvid}
      width='100%'
      height='100%'
      // config={{

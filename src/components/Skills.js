@@ -79,47 +79,65 @@ const Skills = ()=>{
     // }, []);
     return(
         <div className="skills-container">
-            <p> java </p>
-            <Box sx={{ width: '90%' }}>
+            <p> Java </p>
+            <br/>
+            {/* <Box sx={{ width: '90%' }}>
                  <LinearProgressWithLabel value={90} variant = "determinate" color="secondary" />
-            </Box>
-            <p> python </p>
-            <Box sx={{ width: '90%' }}>
+            </Box> */}
+            <p> Python </p>
+            <br/>
+            {/* <Box sx={{ width: '90%' }}> */}
                 {/* {maxLevel = 60} */}
-                 <LinearProgressWithLabel value={90} variant ="buffer" color="secondary" />
-            </Box>
-            <p> react js </p>
-            <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={85}  color="secondary" />
-            </Box>
-            <p> express </p>
-            <Box sx={{ width: '90%' }}>
+                 {/* <LinearProgressWithLabel value={90} variant ="buffer" color="secondary" />
+            </Box> */}
+            <p> Flask </p>
+            <br/>
+            <p> React js </p>
+            <br/>
+            {/* <Box sx={{ width: '90%' }}> */}
+                 {/* <LinearProgressWithLabel value={85}  color="secondary" />
+            </Box> */}
+            <p> Express </p>
+            <br/>
+            {/* <Box sx={{ width: '90%' }}>
+                 <LinearProgressWithLabel value={80}  color="secondary" /> */}
+            {/* </Box> */}
+            <p> Node js </p>
+            <br/>
+            {/* <Box sx={{ width: '90%' }}>
                  <LinearProgressWithLabel value={80}  color="secondary" />
-            </Box>
-            <p> node js </p>
-            <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={80}  color="secondary" />
-            </Box>
-            <p> sql </p>
-            <Box sx={{ width: '90%' }}>
+            </Box> */}
+            <p> Sql </p>
+            <br/>
+            {/* <Box sx={{ width: '90%' }}>
                  <LinearProgressWithLabel value={75}  color="secondary" />
-            </Box>
+            </Box> */}
             <p> Css </p>
-            <Box sx={{ width: '90%' }}>
+            <br/>
+            {/* <Box sx={{ width: '90%' }}>
                  <LinearProgressWithLabel value={70}  color="secondary" />
-            </Box>
-            <p> mongodb </p>
-            <Box sx={{ width: '90%' }}>
+            </Box> */}
+            <p> Mongodb </p>
+            <br/>
+            {/* <Box sx={{ width: '90%' }}>
                  <LinearProgressWithLabel value={75}  color="secondary" />
-            </Box>
+            </Box> */}
             <p> Agile </p>
-            <Box sx={{ width: '90%' }}>
+            <br/>
+            {/* <Box sx={{ width: '90%' }}>
                  <LinearProgressWithLabel value={85}  color="secondary" />
-            </Box>
+            </Box> */}
             <p> Rest APIs </p>
-            <Box sx={{ width: '90%' }}>
+            <br/>
+            {/* <Box sx={{ width: '90%' }}>
                  <LinearProgressWithLabel value={85}  color="secondary" />
-            </Box>
+            </Box> */}
+            <p> Selenium webdriver </p>
+            <br/>
+            <p> MUI react component library </p>
+            <br/>
+           
+
         </div>
         
     )
