@@ -12,8 +12,8 @@ const ProjCard = (props)=>{
                     <div className="pro-details">
                         <p>{props.text}</p>
                         <div className="pro-btns">
-                            <NavLink to={props.view} className="btn" >View on github</NavLink>
-                            {props.site !== " " && <NavLink to={props.site} className="btn" >Visit site</NavLink> }
+                            <NavLink to={props.view} className="btn" >Source code</NavLink>
+                            {props.site !== " " && <NavLink to={props.site} className="btn" >Check it out</NavLink> }
                            {/* maybe change to more details/ published site */}
                             {/* <NavLink to="url.com" className="btn" >Source</NavLink> */}
                             {/* use basic modal here later */}

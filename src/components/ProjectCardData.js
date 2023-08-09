@@ -32,7 +32,7 @@ const ProjectData = [
         title: "Spotify clone application: my love of music meets software engineering",
         text: "Listen to music, view playlists, music library, even search by song/artist. Built using React, Node, spotify API, spotify-web-api-node, and MUI components.",
         view: "https://github.com/Nicole-favela/SpotifyClone",
-        site: " "
+        site: "https://www.dropbox.com/scl/fi/61yxjbnc5uqddot3z29jp/spotify_clone_demo.MP4?rlkey=svn3wpsaw2afvumwf3sx9nmb2&dl=0"
     },
     {
         imgsrc: tmpimg,
