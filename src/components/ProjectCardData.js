@@ -40,7 +40,7 @@ const ProjectData = [
         title: "Full stack Netflix clone",
         text: "This Netflix clone app was built with the MERN stack and incorporates user authentication using JWT and cookies for a seamless login and registration experience. Leveraging the TMDb API, the application mirrors Netflix's layout and design while utilizing React Player to stream movie trailers. The platform keeps track of users' recently viewed trailers and allows them to curate a personalized 'My List' with the ability to add or remove movies. Additionally, users can access their account details and log out through a dedicated profile page.",
         view: "https://github.com/Nicole-favela/Netflix-clone",
-        site: " ",
+        site: "https://netflix-clone-front-end.onrender.com",
     },
     {
         imgsrc: tmpimg,
