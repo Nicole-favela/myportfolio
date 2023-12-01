@@ -6,6 +6,7 @@ import financeproj from "../assets/finance_tracker_proj.png"
 import tmpimg from "../assets/headphonespic.png"
 import spotify_clone_img1 from "../assets/spotify-proj-img1.png"
 import netflix_proj_p1 from "../assets/netflix_clone_p1.png"
+import python_script_proj from "../assets/python_automation_01.JPG"
 const ProjectData = [
     {
         imgsrc: proj1,
@@ -41,6 +42,13 @@ const ProjectData = [
         text: "This Netflix clone app was built with the MERN stack and incorporates user authentication using JWT and cookies for a seamless login and registration experience. Leveraging the TMDb API, the application mirrors Netflix's layout and design while utilizing React Player to stream movie trailers. The platform keeps track of users' recently viewed trailers and allows them to curate a personalized 'My List' with the ability to add or remove movies. Additionally, users can access their account details and log out through a dedicated profile page.",
         view: "https://github.com/Nicole-favela/Netflix-clone",
         site: "https://netflix-clone-front-end.onrender.com",
+    },
+    {
+        imgsrc: python_script_proj,
+        title: "Python file automation",
+        text: "This script was made in response to a problem I commonly have - screenshots and files cluttering my Mac desktop. Manually sorting and moving them was tedious. This script provides an efficient and powerful way to automate the process of cleaning up files on a desktop or any folder. Quickly remove clutter and only move the files you want and within a certain time frame. This script is user friendly thanks to argparse. Just run $python organize.py /full/path/to/messyfolder /full/path/to/target --extensions jpg png --months n. This will create separate folders for the year and month modified.",
+        view: "https://github.com/Nicole-favela/FileOrganizationProject",
+        site: " ",
     },
     {
         imgsrc: tmpimg,

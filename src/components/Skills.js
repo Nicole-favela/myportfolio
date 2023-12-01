@@ -82,59 +82,63 @@ const Skills = ()=>{
             <p> Java </p>
             <br/>
             {/* <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={90} variant = "determinate" color="secondary" />
+                 <LinearProgressWithLabel value={} variant = "determinate" color="secondary" />
             </Box> */}
             <p> Python </p>
             <br/>
             {/* <Box sx={{ width: '90%' }}> */}
                 {/* {maxLevel = 60} */}
-                 {/* <LinearProgressWithLabel value={90} variant ="buffer" color="secondary" />
+                 {/* <LinearProgressWithLabel value={} variant ="buffer" color="secondary" />
             </Box> */}
             <p> Flask </p>
             <br/>
             <p> React js </p>
             <br/>
             {/* <Box sx={{ width: '90%' }}> */}
-                 {/* <LinearProgressWithLabel value={85}  color="secondary" />
+                 {/* <LinearProgressWithLabel value={}  color="secondary" />
             </Box> */}
             <p> Express </p>
             <br/>
             {/* <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={80}  color="secondary" /> */}
+                 <LinearProgressWithLabel value={}  color="secondary" /> */}
             {/* </Box> */}
             <p> Node js </p>
             <br/>
             {/* <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={80}  color="secondary" />
+                 <LinearProgressWithLabel value={}  color="secondary" />
             </Box> */}
             <p> Sql </p>
             <br/>
             {/* <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={75}  color="secondary" />
+                 <LinearProgressWithLabel value={}  color="secondary" />
             </Box> */}
             <p> Css </p>
             <br/>
             {/* <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={70}  color="secondary" />
+                 <LinearProgressWithLabel value={}  color="secondary" />
             </Box> */}
             <p> Mongodb </p>
             <br/>
             {/* <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={75}  color="secondary" />
+                 <LinearProgressWithLabel value={}  color="secondary" />
             </Box> */}
             <p> Agile </p>
             <br/>
             {/* <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={85}  color="secondary" />
+                 <LinearProgressWithLabel value={}  color="secondary" />
             </Box> */}
             <p> Rest APIs </p>
             <br/>
             {/* <Box sx={{ width: '90%' }}>
-                 <LinearProgressWithLabel value={85}  color="secondary" />
+                 <LinearProgressWithLabel value={}  color="secondary" />
             </Box> */}
             <p> Selenium webdriver </p>
             <br/>
             <p> MUI react component library </p>
+            <br/>
+            <p> React redux </p>
+            <br/>
+            <p> Oauth</p>
             <br/>
            
 
