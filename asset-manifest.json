@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.89b08c3a.css",
-    "main.js": "/myportfolio/static/js/main.405eacd2.js",
+    "main.js": "/myportfolio/static/js/main.227506f6.js",
     "static/media/discord_clone_img1.png": "/myportfolio/static/media/discord_clone_img1.fa06ea9752e6360291d6.png",
     "static/media/netflix_clone_p1.png": "/myportfolio/static/media/netflix_clone_p1.fe1a551c6d1c68da7f80.png",
     "static/media/spotify-proj-img1.png": "/myportfolio/static/media/spotify-proj-img1.927deaac5e04affd021a.png",
     "static/media/resumepagebackground.png": "/myportfolio/static/media/resumepagebackground.c0e928043a955b4f261a.png",
     "static/media/homepagebackground.png": "/myportfolio/static/media/homepagebackground.e6f9a778a802e9200712.png",
     "static/media/headphonespic.png": "/myportfolio/static/media/headphonespic.1dc4b63e988fe7261518.png",
+    "static/media/python_automation_01.JPG": "/myportfolio/static/media/python_automation_01.8bb47487ab2a4fcc7a56.JPG",
     "static/media/discord_clone_img2.png": "/myportfolio/static/media/discord_clone_img2.e2af5095a7b21482babf.png",
     "static/media/final_yr_proj_map.png": "/myportfolio/static/media/final_yr_proj_map.0fcfed5ee40c5837b582.png",
     "static/media/cat-typing.gif": "/myportfolio/static/media/cat-typing.dc462c19efae66d5d17b.gif",
@@ -17,10 +18,10 @@
     "static/media/portfoliopic1.jpeg": "/myportfolio/static/media/portfoliopic1.ca2ad155ab3efc98e7de.jpeg",
     "index.html": "/myportfolio/index.html",
     "main.89b08c3a.css.map": "/myportfolio/static/css/main.89b08c3a.css.map",
-    "main.405eacd2.js.map": "/myportfolio/static/js/main.405eacd2.js.map"
+    "main.227506f6.js.map": "/myportfolio/static/js/main.227506f6.js.map"
   },
   "entrypoints": [
     "static/css/main.89b08c3a.css",
-    "static/js/main.405eacd2.js"
+    "static/js/main.227506f6.js"
   ]
 }
