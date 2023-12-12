@@ -10,7 +10,7 @@ const Contact = ()=>{
         <div>
              <Navbar/>
              <AltImg heading="CONTACT ME" text="Let's chat, I'd love to hear from you :)"/>
-             {/* <Form/> */}
+            
              <TmpContact/>
             <Footer/>
         </div>
