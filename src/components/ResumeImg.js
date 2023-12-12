@@ -8,6 +8,8 @@ import ResumeImg2 from "../assets/resumepagebackground.png"
 import {Link} from 'react-router-dom'
 //background for resume page
 const ResumeImg = ()=>{
+    const accomplishments = `What excites me most is the transformative journey from 0 to 100—building captivating applications from the ground up. One of my recent accomplishments is a Netflix clone that mirrors the original platform, offering a great UI/UX experience while diving into new movie trailers. This project challenged me to excel in both front-end design and back-end intricacies by integrating data from the TMDB API, Redux for complex state management, user authentication, cookies, and MUI components. I’d love for you to experience it for yourself on my projects page.
+    `
     return(
         <div className="background">
             <div className= "mask">
@@ -15,10 +17,9 @@ const ResumeImg = ()=>{
 
             </div >
             <div className="content">
-            {/* <p>Hi, My name is Nicole.</p> */}
-            <h4>I'm a highly motivated recent UTEP graduate who's looking to bring my programming and analytical skills to work on complex problems. As a software engineer, I'm always learning new things as technolgy evolves.</h4>
-            {/* <h1>let's code a better future</h1> */}
-
+           
+            <h4>{accomplishments}</h4>
+          
                 <div>
                     <Link to ='/project' className="btn">Projects</Link>
                     <Link to ='/contact' className="btn-light">Contact</Link>

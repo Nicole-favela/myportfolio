@@ -5,8 +5,8 @@ import {HiOutlineMail} from "react-icons/hi"
 import {SiMinutemailer} from "react-icons/si"
 
 const Footer=()=>{
-    const footerInfo = `In my free time, I immerse myself in the art of building seamless, visually captivating web solutions. From the intricate backend workings to the front-end aesthetics, I thrive on the challenge of creating impactful digital experiences. And yes, every coding session is accompanied by a soundtrack—I believe music fuels creativity and innovation.
-    Beyond the screen, my journey is painted with a love for learning and a determination to push boundaries. `
+    const footerInfo = `In my free time, I enjoy building everything from seamless, visually captivating web solutions to time saving automation scripts. From the intricate backend workings to the front-end aesthetics, I thrive on the challenge of creating impactful digital experiences. And yes, every coding session is accompanied by a soundtrack—I believe music fuels creativity and innovation.
+    Beyond the screen, my journey is painted with a love for learning and a determination to push boundaries. My recent project, a Netflix clone, reflects not just technical prowess but a commitment to continuous growth. It's this passion that fuels my relentless pursuit of knowledge, turning every problem into an opportunity to learn and excel.`
     function handleEmail(e){
         e.preventDefault()
         window.location.href = 'mailto:favela.nicoleerin@gmail.com'

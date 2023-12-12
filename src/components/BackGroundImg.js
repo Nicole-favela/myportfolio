@@ -6,6 +6,7 @@ import PortfolioImg2 from "../assets/homepagebackground.png"
 import {Link} from 'react-router-dom'
 
 const BackGroundImg = ()=>{
+    const landingPageHeadline = `Enthusiastic Coder solving complex puzzles`
     return(
         <div className="background">
             <div className= "mask">
@@ -14,9 +15,8 @@ const BackGroundImg = ()=>{
             </div >
             <div className="content">
             <p>Hi, My name is Nicole.</p>
-            <h1>I'm passionate about developing solutions to complex problems.</h1>
-            {/* <h1>let's code a better future</h1> */}
-
+            <h1>{landingPageHeadline}</h1>
+    
                 <div>
                     <Link to ='/project' className="btn">Projects</Link>
                     <Link to ='/contact' className="btn-light">Contact</Link>

@@ -12,6 +12,7 @@ import {useState} from "react"
 
 const ResumeContent=()=>{
       const [active, setActive] = useState(false)
+     
       const handleClick = ()=>{
         return setActive(!active);
       }
