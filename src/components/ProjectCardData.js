@@ -54,7 +54,7 @@ const ProjectData = [
         imgsrc: tmpimg,
         title: "More coming soon",
         text: "Currently typing away...",
-        view: "placeholder.com",
+        view: "https://github.com/Nicole-favela",
         site: " ",
     },
 ]
