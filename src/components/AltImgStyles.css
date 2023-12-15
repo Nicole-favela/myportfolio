@@ -37,5 +37,8 @@
     .alt-img h1{
         font-size: 2rem;
     }
+    .alt-img p{
+        font-size: .8rem;
+    }
 
 }
