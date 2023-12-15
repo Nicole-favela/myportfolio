@@ -27,7 +27,8 @@
 .pro-details p{
     padding-bottom: 1rem;
     font-size:1.1rem;
-    text-align: justify;
+    /* text-align: justify; */
+    text-align: left;
 }
 .pro-btns{
     display: flex;
