@@ -8,7 +8,7 @@ import spotify_clone_img1 from "../assets/spotify-proj-img1.png"
 import netflix_proj_p1 from "../assets/netflix_clone_p1.png"
 import python_script_proj from "../assets/python_automation_01.JPG"
 import recommender_proj from '../assets/recommender_app.png'
-const recommender_description = `Search from 10k movie titles from TMDB with this content based recommendation engine. Login or register with the help of flask jwt and save your favorite movies to 'My List' for later. Using NLP (Natural language processing) techniques, movie data is analyzed, vectorized, and compared with others to find the most relevant search results. Built with React, Flask, Postgresql, AWS s3, MUI components, and uiverse.io loading icons.`
+
 const ProjectData = [
     {
         imgsrc: proj1,
@@ -55,7 +55,7 @@ const ProjectData = [
     {
         imgsrc: recommender_proj,
         title: "Movie Recommender",
-        text: { recommender_description },
+        text: "Search from 10k movie titles from TMDB with this content based recommendation engine. Login or register with the help of flask jwt and save your favorite movies to 'My List' for later. Using NLP (Natural language processing) techniques, movie data is analyzed, vectorized, and compared with others to find the most relevant search results. Built with React, Flask, Postgresql, AWS s3, MUI components, and uiverse.io loading icons.",
         view: "https://github.com/Nicole-favela/RecommenderApp",
         site: " ",
     },
