@@ -1,17 +1,18 @@
 import "./FooterStyles.css"
 import React from "react";
-import {FaHome, FaLinkedin, FaMailBulk,FaPhone, FaLinkedinIn} from "react-icons/fa"
-import {HiOutlineMail} from "react-icons/hi"
-import {SiMinutemailer} from "react-icons/si"
+import { FaHome, FaLinkedin, FaMailBulk, FaPhone, FaLinkedinIn } from "react-icons/fa"
+import { HiOutlineMail } from "react-icons/hi"
+import { SiMinutemailer } from "react-icons/si"
 
-const Footer=()=>{
-    const footerInfo = `In my free time, I enjoy building everything from seamless, visually captivating web solutions to time saving automation scripts. From the intricate backend workings to the front-end aesthetics, I thrive on the challenge of creating impactful digital experiences. And yes, every coding session is accompanied by a soundtrack—I believe music fuels creativity and innovation.
-    Beyond the screen, my journey is painted with a love for learning and a determination to push boundaries. My recent project, a Netflix clone, reflects not just technical prowess but a commitment to continuous growth. It's this passion that fuels my relentless pursuit of knowledge, turning every problem into an opportunity to learn and excel.`
-    function handleEmail(e){
+const Footer = () => {
+    const footerInfo = `In my free time, I enjoy building everything from seamless, visually captivating web solutions to time saving automation scripts. 
+    From the intricate backend workings to the front-end aesthetics, I thrive on the challenge of creating impactful digital experiences. And yes, every coding session is accompanied by a soundtrack—I believe music fuels creativity and innovation. 
+    Recently, I’ve had the amazing opportunity to work at an AI startup solving new and complex problems with the goal of empowering students and giving them access to connections and opportunities they might have never thought possible.  `
+    function handleEmail(e) {
         e.preventDefault()
         window.location.href = 'mailto:favela.nicoleerin@gmail.com'
     }
-    return(
+    return (
         <div className="footer">
             <div className="footer-container">
                 {/* for left side of footer containing contact info */}
@@ -26,16 +27,16 @@ const Footer=()=>{
                     </div> */}
                     <div className="phone">
                         <h4>
-                        <FaPhone size = {20} style = {{color: "#fff", marginRight: "2rem"}}/>
-                        915-497-3173
+                            <FaPhone size={20} style={{ color: "#fff", marginRight: "2rem" }} />
+                            915-497-3173
                         </h4>
                     </div>
                     {/* for email */}
                     <div className="email">
                         <h4>
-                        <FaMailBulk size = {20} style = {{color: "#fff", marginRight: "2rem"}}/>
+                            <FaMailBulk size={20} style={{ color: "#fff", marginRight: "2rem" }} />
                             favela.nicoleerin@gmail.com
-                          <SiMinutemailer size = {20} onClick={handleEmail}/>
+                            <SiMinutemailer size={20} onClick={handleEmail} />
                         </h4>
                     </div>
                 </div>
@@ -47,11 +48,11 @@ const Footer=()=>{
                     <p>{footerInfo}</p>
                     <div className="social">
                         <a href="http://linkedin.com/in/nicole-favela-18aa81207">
-                        <FaLinkedin
-                            size={30}
-                            style={{color: "#fff", marginRight:"1rem"}}
-                        
-                        />
+                            <FaLinkedin
+                                size={30}
+                                style={{ color: "#fff", marginRight: "1rem" }}
+
+                            />
                         </a>
 
                     </div>

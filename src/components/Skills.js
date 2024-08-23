@@ -107,8 +107,7 @@ const Skills = () => {
                {/* <Box sx={{ width: '90%' }}>
                  <LinearProgressWithLabel value={}  color="secondary" />
             </Box> */}
-               <p> Sql </p>
-               <br />
+
                {/* <Box sx={{ width: '90%' }}>
                  <LinearProgressWithLabel value={}  color="secondary" />
             </Box> */}
@@ -118,6 +117,10 @@ const Skills = () => {
                  <LinearProgressWithLabel value={}  color="secondary" />
             </Box> */}
                <p> Mongodb </p>
+               <br />
+               <p> Sql </p>
+               <br />
+               <p> Cloud Firestore </p>
                <br />
                {/* <Box sx={{ width: '90%' }}>
                  <LinearProgressWithLabel value={}  color="secondary" />
@@ -142,6 +145,9 @@ const Skills = () => {
                <br />
                <p> AWS S3 </p>
                <br />
+               <p> GCP </p>
+               <br />
+
 
 
           </div>
