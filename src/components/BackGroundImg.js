@@ -16,7 +16,7 @@ const BackGroundImg = ()=>{
             </div >
             <div className="content">
             <p>Hi, My name is Nicole.</p>
-            <h1>{landingPageHeadline}</h1>
+            <h3>{landingPageHeadline}</h3>
     
                 <div>
                     <Link to ='/project' className="btn">Projects</Link>
