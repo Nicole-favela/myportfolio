@@ -7,7 +7,7 @@ import { SiMinutemailer } from "react-icons/si"
 const Footer = () => {
     const footerInfo = `In my free time, I enjoy building everything from seamless, visually captivating web solutions to time saving automation scripts. 
     From the intricate backend workings to the front-end aesthetics, I thrive on the challenge of creating impactful digital experiences. And yes, every coding session is accompanied by a soundtrack—I believe music fuels creativity and innovation. 
-    Recently, I’ve had the amazing opportunity to work at an AI startup solving new and complex problems with the goal of empowering students and giving them access to connections and opportunities they might have never thought possible.  `
+    `
     function handleEmail(e) {
         e.preventDefault()
         window.location.href = 'mailto:favela.nicoleerin@gmail.com'
@@ -25,12 +25,7 @@ const Footer = () => {
                            
                         </div>
                     </div> */}
-                    {/* <div className="phone">
-                        <h4>
-                            <FaPhone size={20} style={{ color: "#fff", marginRight: "2rem" }} />
-                            915-497-3173
-                        </h4>
-                    </div> */}
+                  
                     {/* for email */}
                     <div className="email">
                         <h4>
