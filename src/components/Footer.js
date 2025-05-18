@@ -25,12 +25,12 @@ const Footer = () => {
                            
                         </div>
                     </div> */}
-                    <div className="phone">
+                    {/* <div className="phone">
                         <h4>
                             <FaPhone size={20} style={{ color: "#fff", marginRight: "2rem" }} />
                             915-497-3173
                         </h4>
-                    </div>
+                    </div> */}
                     {/* for email */}
                     <div className="email">
                         <h4>
