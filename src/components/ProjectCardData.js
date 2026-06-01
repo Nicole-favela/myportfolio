@@ -8,6 +8,9 @@ import spotify_clone_img1 from "../assets/spotify-proj-img1.png"
 import netflix_proj_p1 from "../assets/netflix_clone_p1.png"
 import python_script_proj from "../assets/python_automation_01.JPG"
 import recommender_proj from '../assets/recommender_app.png'
+import portfolio_placeholder from '../assets/portfolio_site_placeholder.jpeg'
+import pong_img from '../assets/rl_pong_demo_img.png'
+import caldera_img from '../assets/mitre_logo.png'
 
 const ProjectData = [
     {
@@ -57,6 +60,27 @@ const ProjectData = [
         title: "Movie Recommender",
         text: "Search from 10k movie titles from TMDB with this content based recommendation engine. Login or register with the help of flask jwt and save your favorite movies to 'My List' for later. Using NLP (Natural language processing) techniques, movie data is analyzed, vectorized, and compared with others to find the most relevant search results. Built with React, Flask, Postgresql, AWS s3, MUI components, and uiverse.io loading icons.",
         view: "https://github.com/Nicole-favela/RecommenderApp",
+        site: " ",
+    },
+    {
+        imgsrc: pong_img, 
+        title: "Pong Atari Agent",
+        text: "Reinforcement learning trained agent that is able to play pong using Atari in gymnasium environment. The agent was trained using deep Q-learning with pixel coordinate data as input. A video demo of the trained agent is available to view so check it out!",
+        view: "https://github.com/Nicole-favela/reinforcement-learning-arcade.git",
+        site: "https://www.youtube.com/watch?v=z04-U1CQrXk",
+    },
+    {
+        imgsrc: caldera_img, 
+        title: "Caldera CLI Agent",
+        text: "An AI powered red team assistant using MITRE CALDERA that allows for automated execution, monitoring, reporting, and analysis of red team operations through a CLI.",
+        view: "https://github.com/Nicole-favela/caldera-shell.git",
+        site: " ",
+    },
+     {
+        imgsrc: portfolio_placeholder,
+        title: "New and improved portfolio website",
+        text: "A redesigned, linux inspired, and more interactive version of my portfolio website is in the works!", 
+        view: "https://github.com/Nicole-favela/root-portfolio.git",
         site: " ",
     },
     {
