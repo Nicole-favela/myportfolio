@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.f7f55de4.css",
-    "main.js": "/myportfolio/static/js/main.d8059a9c.js",
+    "main.js": "/myportfolio/static/js/main.a8070bf1.js",
     "static/media/discord_clone_img1.png": "/myportfolio/static/media/discord_clone_img1.fa06ea9752e6360291d6.png",
     "static/media/netflix_clone_p1.png": "/myportfolio/static/media/netflix_clone_p1.fe1a551c6d1c68da7f80.png",
     "static/media/recommender_app.png": "/myportfolio/static/media/recommender_app.fe136a2fdc0980f002fe.png",
@@ -12,17 +12,19 @@
     "static/media/python_automation_01.JPG": "/myportfolio/static/media/python_automation_01.8bb47487ab2a4fcc7a56.JPG",
     "static/media/discord_clone_img2.png": "/myportfolio/static/media/discord_clone_img2.e2af5095a7b21482babf.png",
     "static/media/final_yr_proj_map.png": "/myportfolio/static/media/final_yr_proj_map.0fcfed5ee40c5837b582.png",
+    "static/media/mitre_logo.png": "/myportfolio/static/media/mitre_logo.fe2f4e7d0b73f285bea7.png",
     "static/media/cat-typing.gif": "/myportfolio/static/media/cat-typing.dc462c19efae66d5d17b.gif",
     "static/media/finance_tracker_proj.png": "/myportfolio/static/media/finance_tracker_proj.7740a1dd19354c0c1ca2.png",
+    "static/media/rl_pong_demo_img.png": "/myportfolio/static/media/rl_pong_demo_img.057491f958cba77ccef2.png",
     "static/media/desk_img.avif": "/myportfolio/static/media/desk_img.fbdf2db5cf0aa0fe21f2.avif",
     "static/media/robot_contact_pic1.avif": "/myportfolio/static/media/robot_contact_pic1.e1c9fb081388c9e5f2d4.avif",
     "static/media/portfoliopic1.jpeg": "/myportfolio/static/media/portfoliopic1.ca2ad155ab3efc98e7de.jpeg",
     "index.html": "/myportfolio/index.html",
     "main.f7f55de4.css.map": "/myportfolio/static/css/main.f7f55de4.css.map",
-    "main.d8059a9c.js.map": "/myportfolio/static/js/main.d8059a9c.js.map"
+    "main.a8070bf1.js.map": "/myportfolio/static/js/main.a8070bf1.js.map"
   },
   "entrypoints": [
     "static/css/main.f7f55de4.css",
-    "static/js/main.d8059a9c.js"
+    "static/js/main.a8070bf1.js"
   ]
 }
