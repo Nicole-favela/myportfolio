@@ -79,12 +79,13 @@ const Skills = () => {
      // }, []);
      return (
           <div className="skills-container">
-               <p> Java </p>
-               <br />
+              
                {/* <Box sx={{ width: '90%' }}>
                  <LinearProgressWithLabel value={} variant = "determinate" color="secondary" />
             </Box> */}
                <p> Python </p>
+               <br />
+               <p> Java </p>
                <br />
                {/* <Box sx={{ width: '90%' }}> */}
                {/* {maxLevel = 60} */}
@@ -94,6 +95,15 @@ const Skills = () => {
                <br />
                <p> React js </p>
                <br />
+                <p> Next js </p>
+               <br />
+               <p> Pinecone Vector Database </p>
+               <br />
+               <p> Langchain </p>
+               <br />
+               <p> Agno agent framework</p>
+               <br />
+              
                {/* <Box sx={{ width: '90%' }}> */}
                {/* <LinearProgressWithLabel value={}  color="secondary" />
             </Box> */}
@@ -120,6 +130,8 @@ const Skills = () => {
                <br />
                <p> Sql </p>
                <br />
+               <p> Postgres </p>
+               <br />
                <p> Cloud Firestore </p>
                <br />
                {/* <Box sx={{ width: '90%' }}>
@@ -144,6 +156,8 @@ const Skills = () => {
                <p> Oauth</p>
                <br />
                <p> AWS S3 </p>
+               <br />
+               <p> AWS lambda </p>
                <br />
                <p> GCP </p>
                <br />
