@@ -8,8 +8,7 @@ import ResumeImg2 from "../assets/resumepagebackground.png"
 import {Link} from 'react-router-dom'
 //background for resume page
 const ResumeImg = ()=>{
-    const accomplishments = `What excites me most is the transformative journey from 0 to 100—building captivating applications from the ground up. One of my recent accomplishments is a Netflix clone that mirrors the original platform, offering a great UI/UX experience while diving into new movie trailers. This project challenged me to excel in both front-end design and back-end intricacies by integrating data from the TMDB API, Redux for complex state management, user authentication, cookies, and MUI components. I’d love for you to experience it for yourself on my projects page.
-    `
+    const accomplishments = `I’m fascinated by the intersection of software engineering and artificial intelligence. Some of my recent work includes developing a Self-RAG implementation for context-aware knowledge retrieval, training a reinforcement learning agent to master Atari Pong from game-state data, and building developer tooling that automates complex workflows through intuitive command-line interfaces. I enjoy exploring how intelligent systems can solve real-world problems while continuously pushing myself to learn new technologies and techniques.`
     return(
         <div className="background">
             <div className= "mask">

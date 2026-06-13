@@ -11,6 +11,7 @@ import recommender_proj from '../assets/recommender_app.png'
 import portfolio_placeholder from '../assets/portfolio_site_placeholder.jpeg'
 import pong_img from '../assets/rl_pong_demo_img.png'
 import caldera_img from '../assets/mitre_logo.png'
+import self_rag from '../assets/self_rag_versus_vanilla.png'
 
 const ProjectData = [
     {
@@ -74,6 +75,13 @@ const ProjectData = [
         title: "Caldera CLI Agent",
         text: "An AI powered red team assistant using MITRE CALDERA that allows for automated execution, monitoring, reporting, and analysis of red team operations through a CLI.",
         view: "https://github.com/Nicole-favela/caldera-shell.git",
+        site: " ",
+    },
+    {
+        imgsrc: self_rag, 
+        title: "Lightweight Self-RAG",
+        text: "A graduate school level project that applies a lightweight self-RAG implementation based heavily on a research paper from 2023 to improve on traditional dumb retrieval RAG. This project was motivated by a desire to explore the capabilities of Retrieval Augmented Generation (RAG) and the possible improvements that could make responses more accurate and contextually relevant especially in fields such as finance or medicine where correctness is crucial.",
+        view: "https://github.com/Nicole-favela/dl-self-rag-project",
         site: " ",
     },
      {
